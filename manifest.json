@@ -1,6 +1,6 @@
 {
-    "name": "dual_list_demo",
-    "short_name": "dual_list_demo",
+    "name": "neutrino_app",
+    "short_name": "neutrino_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
